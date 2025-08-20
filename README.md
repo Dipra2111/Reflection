@@ -40,7 +40,7 @@ It helps users **track moods, identify patterns, explore coping mechanisms, and 
 
 1. Clone the Repository
 bash
-git clone https://github.com/your-username/Reflection
+git clone https://github.com/Dipra2111/Reflection
 cd Reflection.com.
 2. Setup Frontend
 cd frontend
